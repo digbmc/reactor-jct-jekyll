@@ -85,7 +85,7 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 - October 19 - Groves appoints Robert Oppenheimer to coordinate the project at Site Y, the Los Alamos, New Mexico laboratory.
 - December 2 - The first self-sustaining nuclear chain reaction takes place at the Chicago Pile-1 reactor at the University of Chicago by the Metallurgical Laboratory, or Met Lab.[^9] Led by Professor Arthur Compton, Enrico Fermi, Leo Szilard, and Eugene Eigner, the reactor was built on an old squash court under the abandoned Stagg Field football stands, without permission from or notification of any elected officials, the Mayor of Chicago, or the President of the University. The Chicago Pile-1, or CP-1, was a 20 foot tall stack of graphite and uranium blocks arranged in 56 layers with cadmium control rods.[^10] The pile was completed December 1st. On December 2nd, 49 scientists gathered, and Fermi “directed the operators to slowly move the control rods, and their instruments clicked to record the neutron count. At 3:53 p.m., they recorded that a self-sustaining nuclear chain reaction was achieved for the first time ever. It had taken 28 minutes.”[^11]
 
-`image 'wc:Chicago_pile_I_banner.jpg static caption="Chicago Pile-1"`
+`image src=wc:Chicago_pile_I_banner.jpg caption="Chicago Pile-1"`
 
 [^9]: Lerner, Louise. “The First Nuclear Reactor, Explained.” *University of Chicago News*, 25 May 2023, [https://news.uchicago.edu/explainer/first-nuclear-reactor-explained](https://news.uchicago.edu/explainer/first-nuclear-reactor-explained)
 
@@ -181,7 +181,7 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 - October - The first successful Soviet Union test of the intercontinental ballistic missile (ICBM) takes place, and Sputnik 1 is launched.
 - November 3 - The Soviet Union launches Sputnik 2, a satellite carrying a dog named Laika into space. Laika is the first earthling to reach space. There was never a plan for her reentry. Dr. Vladimir Yazdovsky took Laika home to play with his children before the launch, writing “Laika was quiet and charming ... I wanted to do something nice for her: She had so little time left to live.”[^18] Yevgeniy Shabrov recalls from the day of the launch: “after placing Laika in the container and before closing the hatch, we kissed her nose and wished her bon voyage, knowing that she would not survive the flight.”[^19]
 
-`image src=wc:Laika-creature-space-Sputnik-2-November-1957.webp caption="Laika, the first earthling in space"`
+`image src=wc:Лайка_(собака-космонавт)1.jpg caption="Laika, the first earthling in space"`
 
 #### 1958
 - January 31 - The first satellite launched by the United States, Explorer 1, reaches space.[^20]
@@ -214,11 +214,11 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 - October 30 - The Soviet Union tests a hydrogen bomb with a yield of 50 megatons named *Tsar Bomba*. The biggest nuclear device ever detonated by the United States was *Castle Bravo,* with a yield of about 15 megatons.[^22]
 
 `image src=wc:Ham_Retreival_GPN-2000-001004.jpg caption="Ham, the first hominid in space"`
-`image src=wc:Ham_Tries_Out_His_Life_Support_System_-_GPN-2002-000046.jpg caption="Ham, the first hominid in space"`
-`image src=wc:Chimpanzee_Ham_in_Biopack_Couch_for_MR-2_flight_MSFC-6100114.jpg caption="Ham, the first hominid in space"`
+`image src=wc:Ham_Tries_Out_His_Life_Support_System_-_GPN-2002-000046.jpg`
+`image src=wc:Chimpanzee_Ham_in_Biopack_Couch_for_MR-2_flight_MSFC-6100114.jpg`
 `image src=wc:Yuri_Gagarin_Kosmonaut_stamps.png caption="Yuri Gagarin, the first man in space"`
 `image src=wc:Yuri_Gagarin_Capsule_and_space_suit.jpg caption="Yuri Gagarin, the first man in space"`
-`image src=wc:Yuri_Gagarin_(1961)_-_Restoration.jpg caption="Yuri Gagarin, the first man in space"`
+`image src=wc:Yuri_Gagarin_(1961)_-_Restoration.jpg`
 
 
 [^22]: “Tsar Bomba.” The National Museum of Nuclear Science & History, 8 Aug. 2014, [https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/](https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/)
@@ -267,6 +267,7 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 - March 28 - The Three Mile Island reactor near Harrisburg, Pennsylvania, partially melts down, prompting the NRC to impose stricter regulations and inspection procedures.[^26]
 - June 17 - The United States and the Soviet Union sign the SALT II treaty, which limits the nuclear forces of both nations.
 - December 24 - The Soviet Union invades Afghanistan, halting the consideration of the SALT II treaty and beginning a nine-year war.
+
 `image src=wc:3MileIsland.jpg caption="Three Mile Island Reactor"`
 
 [^26]: “Backgrounder on the Three Mile Island Accident.” United States Nuclear Regulatory Commission, 15 Nov. 2015, [https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html)
@@ -281,7 +282,7 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 #### 1986
 - April 26 - Reactor 4 of the Chornobyl Power Plant in Prypiat, Ukraine, explodes.[^28]
 
-`image src=wc:Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg static caption="Chornobyl 2013`
+`image src=wc:Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg caption="Chornobyl 2013`
 
 [^27]: “Strategic Defense Initiative (SDI).” The National Museum of Nuclear Science & History, 18 July 2018, [https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/](https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/)
 [^28]: Kenaston, Elliot. “The Accident: A Timeline of the Chernobyl Reactor Explosion.” [https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/](https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/)
