@@ -27,8 +27,6 @@ First, uranium is processed and enriched at a uranium mill in order to increase 
 There are two kinds of nuclear reactor designs currently used in the United States, and their main difference is the way they generate steam. One of them is the more common pressurized water reactor. This kind of reactor uses water for cooling the reactor and for driving the electricity-generating turbines; however, those processes are separated via loops and do not mix. The other reactor is the less common boiling water reactor. This reactor uses the same water which is used to cool and power the electricity-generating turbines. 
 
 
-
-
 #### Pressurized Water Reactor
 
 ![](https://www.energy.gov/sites/default/files/styles/full_article_width/public/2019/02/f59/Pressurized_Water_Reactor%201200%20x%20900-01_0.png?itok=0i6xJIWK)
@@ -50,7 +48,7 @@ The previous two reactors were moderated and cooled by water, which means that t
 
 #### RMBK Reactor
 
-![](https://www.world-nuclear.org/getmedia/5443eaa9-c453-495a-ac5d-2b4d9f3a28ea/light-water-graphite-mod-reactor-lwgr.png)
+![](https://wna.origindigital.co/images/articles/7a1ba65e-896b-48bb-b1cc-9326840a8ba3.png)
 
 The RMBK diagram showing its complex construction.[^4]
 

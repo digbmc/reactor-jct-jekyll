@@ -55,8 +55,8 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 
 [^8]: “Short History of the Russian Nuclear Industry.” Rosatom, rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/. Accessed 17 July 2023. [https://rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/](https://rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/)
 
-`image wc:Ir%C3%A8ne_et_Fr%C3%A9d%C3%A9ric_Joliot-Curie_1935.jpg caption="Irène and Frédéric Joliot-Curie (1935)"`
-`image wc:1-Einstein_and_Szilard_letter_to_Roosevelt_NNSA.jpg caption="Einstein and Szilard (1946)"`
+`image src=wc:Ir%C3%A8ne_et_Fr%C3%A9d%C3%A9ric_Joliot-Curie_1935.jpg caption="Irène and Frédéric Joliot-Curie (1935)"`
+`image src=wc:1-Einstein_and_Szilard_letter_to_Roosevelt_NNSA.jpg caption="Einstein and Szilard (1946)"`
 
 
 ### 1940s
@@ -144,9 +144,9 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 - March 1 - The AEC announces the selection of a site in Idaho for the National Reactor Testing Station.
 - August 29 - The Soviet Union tests its first atomic bomb, called ‘First Lightning’ by the West.
 
-`image wc:Crossroads_Baker_bomb_explosion,_photographed_form_a_Grumman_F6F-5K_Hellcat_drone,_25_July_1946.jpg caption="The Baker Bomb"`
-`image wc:Crossroads_baker_explosion.jpg`
-`image wc:Operation_Crossroads_Baker.jpg`
+`image src=wc:Crossroads_Baker_bomb_explosion,_photographed_form_a_Grumman_F6F-5K_Hellcat_drone,_25_July_1946.jpg caption="The Baker Bomb"`
+`image src=wc:Crossroads_baker_explosion.jpg`
+`image src=wc:Operation_Crossroads_Baker.jpg`
 
 
 [^12]: “Manhattan Project Timeline.” National Parks Service, 4 Apr. 2023, [https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.](https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.)
@@ -172,7 +172,7 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 - August 8 - 20 - The first United Nations International Conference on the Peaceful Uses of Atomic Energy was held in Geneva, Switzerland.
 - November 22 - The Soviet Union tests its first hydrogen bomb.
 
-`image wc:Soviet_postage_stamp_commemorating_the_Conference_on_the_Peaceful_Uses_of_Atomic_Energy,_1958_-_DPLA_-_4c7c8f556f94242a4e83be85a2de6ae7.jpg caption="Soviet Postage Stamp for the Confrence on the Peaceful Uses of Atomic Energy"`
+`image src=wc:Soviet_postage_stamp_commemorating_the_Conference_on_the_Peaceful_Uses_of_Atomic_Energy,_1958_-_DPLA_-_4c7c8f556f94242a4e83be85a2de6ae7.jpg caption="Soviet Postage Stamp for the Confrence on the Peaceful Uses of Atomic Energy"`
 
 #### 1956
 - October 17 - The first nuclear power station built to produce commercial energy, Calder Hall, is opened in Seascale, England.[^17]
@@ -181,7 +181,7 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 - October - The first successful Soviet Union test of the intercontinental ballistic missile (ICBM) takes place, and Sputnik 1 is launched.
 - November 3 - The Soviet Union launches Sputnik 2, a satellite carrying a dog named Laika into space. Laika is the first earthling to reach space. There was never a plan for her reentry. Dr. Vladimir Yazdovsky took Laika home to play with his children before the launch, writing “Laika was quiet and charming ... I wanted to do something nice for her: She had so little time left to live.”[^18] Yevgeniy Shabrov recalls from the day of the launch: “after placing Laika in the container and before closing the hatch, we kissed her nose and wished her bon voyage, knowing that she would not survive the flight.”[^19]
 
-`image wc:Laika-creature-space-Sputnik-2-November-1957.webp caption="Laika, the first earthling in space"`
+`image src=wc:Laika-creature-space-Sputnik-2-November-1957.webp caption="Laika, the first earthling in space"`
 
 #### 1958
 - January 31 - The first satellite launched by the United States, Explorer 1, reaches space.[^20]
@@ -213,12 +213,12 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 - April 12 - Yuri Gagarin of the Soviet Union is the first man in space aboard the Vostok 1.
 - October 30 - The Soviet Union tests a hydrogen bomb with a yield of 50 megatons named *Tsar Bomba*. The biggest nuclear device ever detonated by the United States was *Castle Bravo,* with a yield of about 15 megatons.[^22]
 
-`image wc:Ham_Retreival_GPN-2000-001004.jpg caption="Ham, the first hominid in space"`
-`image wc:Ham_Tries_Out_His_Life_Support_System_-_GPN-2002-000046.jpg caption="Ham, the first hominid in space"`
-`image wc:Chimpanzee_Ham_in_Biopack_Couch_for_MR-2_flight_MSFC-6100114.jpg caption="Ham, the first hominid in space"`
-`image wc:Yuri_Gagarin_Kosmonaut_stamps.png caption="Yuri Gagarin, the first man in space"`
-`image wc:Yuri_Gagarin_Capsule_and_space_suit.jpg caption="Yuri Gagarin, the first man in space"`
-`image wc:Yuri_Gagarin_(1961)_-_Restoration.jpg caption="Yuri Gagarin, the first man in space"`
+`image src=wc:Ham_Retreival_GPN-2000-001004.jpg caption="Ham, the first hominid in space"`
+`image src=wc:Ham_Tries_Out_His_Life_Support_System_-_GPN-2002-000046.jpg caption="Ham, the first hominid in space"`
+`image src=wc:Chimpanzee_Ham_in_Biopack_Couch_for_MR-2_flight_MSFC-6100114.jpg caption="Ham, the first hominid in space"`
+`image src=wc:Yuri_Gagarin_Kosmonaut_stamps.png caption="Yuri Gagarin, the first man in space"`
+`image src=wc:Yuri_Gagarin_Capsule_and_space_suit.jpg caption="Yuri Gagarin, the first man in space"`
+`image src=wc:Yuri_Gagarin_(1961)_-_Restoration.jpg caption="Yuri Gagarin, the first man in space"`
 
 
 [^22]: “Tsar Bomba.” The National Museum of Nuclear Science & History, 8 Aug. 2014, [https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/](https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/)
@@ -231,7 +231,7 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 #### 1965
 - March 18 - Alexei Leonov of the Soviet Union conducts the first ever spacewalk.
 - April 3 - A nuclear reactor, SNAP-10A - Systems for Nuclear Auxiliary Power - is operated in space for the first time, launched by the United States.
-`image wc:Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_(10967640793).jpg caption="SNAP-10A Reactor"`
+`image src=wc:Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_(10967640793).jpg caption="SNAP-10A Reactor"`
 
 #### 1968
 - July 1 - The *Treaty on the Non-proliferation of Nuclear Weapons* (NPT) is signed.[^24]
@@ -239,9 +239,9 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 - July 20 - The Apollo 11 successfully reaches the moon with a crew of Neil Armstrong, Edwin “Buzz” Aldrin, and Michael Collins.
 - 1969-1979 - The détente begins, easing the tension between the Soviet Union and the United States.
 
-`image wc:Apollo_11_Crew.jpg caption="Apollo 11 and its crew"`
-`image wc:Aldrin_Apollo_11_original.jpg`
-`image wc:Apollo_11_Launch_-_GPN-2000-000630.jpg`
+`image src=wc:Apollo_11_Crew.jpg caption="Apollo 11 and its crew"`
+`image src=wc:Aldrin_Apollo_11_original.jpg`
+`image src=wc:Apollo_11_Launch_-_GPN-2000-000630.jpg`
 
 [^23]: Mahnken, Thomas G., et al. “The United States and the Cold War Arms Race.” *Arms Races in International Politics: From the Nineteenth to the Twenty-First Century*, (Oxford, 2016; online edn, Oxford Academic, 21 Jan. 2016) [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
 
@@ -267,7 +267,7 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 - March 28 - The Three Mile Island reactor near Harrisburg, Pennsylvania, partially melts down, prompting the NRC to impose stricter regulations and inspection procedures.[^26]
 - June 17 - The United States and the Soviet Union sign the SALT II treaty, which limits the nuclear forces of both nations.
 - December 24 - The Soviet Union invades Afghanistan, halting the consideration of the SALT II treaty and beginning a nine-year war.
-`image wc:3MileIsland.jpg caption="Three Mile Island Reactor"`
+`image src=wc:3MileIsland.jpg caption="Three Mile Island Reactor"`
 
 [^26]: “Backgrounder on the Three Mile Island Accident.” United States Nuclear Regulatory Commission, 15 Nov. 2015, [https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html)
 
@@ -281,7 +281,7 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 #### 1986
 - April 26 - Reactor 4 of the Chornobyl Power Plant in Prypiat, Ukraine, explodes.[^28]
 
-`image wc:Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg static caption="Chornobyl 2013`
+`image src=wc:Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg static caption="Chornobyl 2013`
 
 [^27]: “Strategic Defense Initiative (SDI).” The National Museum of Nuclear Science & History, 18 July 2018, [https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/](https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/)
 [^28]: Kenaston, Elliot. “The Accident: A Timeline of the Chernobyl Reactor Explosion.” [https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/](https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/)
