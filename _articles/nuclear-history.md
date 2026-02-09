@@ -1,5 +1,5 @@
 ---
-title: Nuclear History
+title: The History of Nuclear Power
 nav_title: History
 description:
 author: 
@@ -12,38 +12,44 @@ published: true
 featured: false
 ---
 
-`header title="The History of Nuclear Power" img=wc:Laura_and_Enrico_Fermi_1954.jpg`
+`header title="The History of Nuclear Power" img=wc:Laura_and_Enrico_Fermi_1954.jpg height=500`
 
 ## Origins of Nuclear Research[^1]
+
 The idea of the atom has been around for centuries — the Greeks believed that our world was made up of tiny, invisible particles they named *atoms*, from the word *atomos*, meaning indivisible.[^2] In 1789, a German chemist discovered the element uranium, named after the planet Uranus. Then, in 1895, Wilhelm Röntgen discovered ionizing radiation, an energy released by atoms that appears as particles, such as neutrons, or electromagnetic waves, such as gamma or X-rays. Henri Becquerel discovered beta radiation in 1896 when he found that pitchblende, which contains both radium and uranium, caused a photographic plate to grow dark due to the beta radiation and the alpha particles that emitted from the pitchblende. In 1896, Marie and Pierre Curie deemed this emitting of particles *radioactivity* and went on to isolate polonium and radium from the pitchblende in 1898. Ernest Rutherford proved that radioactivity created a different element in 1902. In 1911, Frederick Soddy discovered that radioactive elements have different isotopes, or radionuclides, with the same chemistry. Rutherford then discovered nuclear rearrangement in 1919 when he fired alpha particles from radium into nitrogen, which created oxygen.[^3]
 
 When two atoms are combined, or one is broken apart, energy is released – these reactions are called fusion and fission, respectively, and are the basis of nuclear power. At the onset of World War Two and through the Cold War, the intent of nuclear development changed from economical energy generation to weapons of mass destruction, but that does not make nuclear energy a black-and-white issue. While nuclear technology is the foundation of the largest bomb ever created, it is also the resource that made mankind reaching the stars possible, and may be the [future](https://digitalscholarship.brynmawr.edu/reactor-room/projects/nuclear-power/) of sustainable energy.
 
-[^1]: “Outline History of Nuclear Energy.” World Nuclear Association, Nov. 2020. [https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx](https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx)
-[^2]: “The History of Nuclear Energy.” The Department of Energy, [https://www.energy.gov/ne/articles/history-nuclear-energy](https://www.energy.gov/ne/articles/history-nuclear-energy)
-[^3]: “Ionizing Radiation, Health Effects and Protective Measures.” World Health Organization, 29 Apr. 2016, [https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-health-effects-and-protective-measures](https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-health-effects-and-protective-measures)
-
 ## Nuclear Development from the 1930s to the 1980s
 
 ### 1930s
+
 #### 1931
+
 - May 20 - 24 - The first international conference on nuclear physics is held at the Federal Institute of Technology in Zurich, Switzerland.
 - October 11 - 18 - The second international conference on nuclear physics is held in Rome, Italy.
+
 #### 1932
+
 - James Chadwick discovers the neutron.
 - April 14 - John Cockcroft and Ernest Walton create nuclear transformations by bombarding atoms with accelerated protons.
 - September 24 - 30 - The third international conference on nuclear physics is held at the Abram Ioffe’s Physico-Technical Institute in Leningrad.[^4]
-[^4]: Stuewer, Roger H. “Nuclear Physicists at the Crossroads.” The Age of Innocence: Nuclear Physics Between the First and Second World Wars, Oxford University Press, 2022, pp. 216–247, https://academic.oup.com/book/26094/chapter/194080423. Accessed 19 July 2023. [https://academic.oup.com/book/26094/chapter/194080423](https://academic.oup.com/book/26094/chapter/194080423)
 - October 10 - The first experiments into nuclear fission in the USSR are conducted at the National Science Center Kharkiv Institute of Physics and Technology (KIPT) in Ukraine.[^5]
-[^5]: “Kharkiv Institute of Physics and Technology.” Wikipedia, 2 Feb. 2023, en.wikipedia.org/wiki/Kharkiv_Institute_of_Physics_and_Technology. [https://en.wikipedia.org/wiki/Kharkiv_Institute_of_Physics_and_Technology](en.wikipedia.org/wiki/Kharkiv_Institute_of_Physics_and_Technology.)
+
 #### 1934
+
 - Irène and Frédéric Joliot-Curie discover artificial radionuclides, meaning radioactive elements can be artificially *created* from stable elements. 
+
 #### 1935
+
 - October 22 - Enrico Fermi discovers a method to create a greater variety of radionuclides using neutrons.[^6]
-[^6]: “Case Files: Enrico Fermi.” The Franklin Institute, 9 Feb. 2023, [https://www.fi.edu/en/news/case-files-enrico-fermi](https://www.fi.edu/en/news/case-files-enrico-fermi)
+
 #### 1938
+
 - Otto Hahn and Fritz Strassmann split uranium apart, creating several lighter elements — such as barium — which demonstrates atomic fission.
+
 #### 1939
+
 - Lise Meitner, Niels Bohr, and Otto Frisch used Hahn and Strassmann’s discovery to confirm Einstein’s theory of mass and energy from 1905[^7] by calculating the masses of the fission products and finding that they did not equal the uranium’s mass, proving that it had been turned into energy during fission.
 - Leo Szilard and Fermi propose a new method of slowing emitted neutrons to more effectively cause fission.
 - Francis Perrin demonstrates fission in a uranium and water mixture and uses a neutron-absorbing material to control the reaction.  
@@ -53,21 +59,19 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 - October 11 - The Einstein-Szilard letter is delivered to Roosevelt, advising him to look into nuclear fission as a weapon, as Germany may already be researching it.
 - October 21 - The Advisory Committee on Uranium meets for the first time.
 
-[^7]: Fernflores, Francisco. “The Equivalence of Mass and Energy.” Stanford Encyclopedia of Philosophy, 15 Aug. 2019, plato.stanford.edu/entries/equivME/. [https://plato.stanford.edu/entries/equivME/](https://plato.stanford.edu/entries/equivME/)
-
-[^8]: “Short History of the Russian Nuclear Industry.” Rosatom, rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/. Accessed 17 July 2023. [https://rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/](https://rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/)
-
 `image src=wc:Ir%C3%A8ne_et_Fr%C3%A9d%C3%A9ric_Joliot-Curie_1935.jpg caption="Irène and Frédéric Joliot-Curie (1935)"`
 `image src=wc:1-Einstein_and_Szilard_letter_to_Roosevelt_NNSA.jpg caption="Einstein and Szilard (1946)"`
 
-
 ### 1940s
+
 #### 1940
+
 - Carl Friedrich von Weizsäcker concludes that if a “uranium machine” can sustain a chain reaction, the Uranium-238 could become ‘element 94,’ also known as plutonium.
 - April 10 - The MAUD Committee (a reference to Niels Bohr’s housekeeper, Maud Ray), a group of British scientists working to determine if an atomic bomb was possible, is established.
 - June 12 - President Roosevelt creates the National Defense Research Committee (NDRC), which absorbs the Uranium Committee.
 
 #### 1941
+
 - May 17 - Arthur Compton at the National Academy of Sciences reports favorably on the prospects of military uses of nuclear power. 
 - June 22nd - Germany invades the Soviet Union, halting its nuclear research.
 - June 28 - Roosevelt creates the Office of Scientific Research and Development (OSRD), which absorbs the NDRC and Uranium committees.
@@ -78,6 +82,7 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 - December 18 - The researchers sponsored by OSRD to develop nuclear weapons hold their first meeting.
 
 #### 1942
+
 - January 19 - President Roosevelt authorizes the atomic bomb project.
 - January 24 - Arthur Compton centralizes plutonium research at the University of Chicago.
 - July - September - A conference is held at UC Berkeley to discuss potential designs for a fission bomb. Edward Teller suggests a hydrogen bomb.
@@ -89,13 +94,8 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 
 `image src=wc:Chicago_pile_I_banner.jpg caption="Chicago Pile-1"`
 
-[^9]: Lerner, Louise. “The First Nuclear Reactor, Explained.” *University of Chicago News*, 25 May 2023, [https://news.uchicago.edu/explainer/first-nuclear-reactor-explained](https://news.uchicago.edu/explainer/first-nuclear-reactor-explained)
-
-[^10]: Drapa, Michael. “Race to the First Nuclear Chain Reaction.” *University of Chicago News*, 23 Oct. 2017, [https://news.uchicago.edu/story/race-first-nuclear-chain-reaction](https://news.uchicago.edu/story/race-first-nuclear-chain-reaction)
-
-[^11]: Drapa, Michael. “Ted Petry, Last Known Witness to Pioneering Nuclear Reaction at UChicago, 1924-2018.” *University of Chicago News*, 7 Aug. 2018, [https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018](https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018)
-
 #### 1943
+
 - February 9 - Groves and Patterson approve the Hanford Site and build location in Benton County, Washington, for the world's first plutonium-producing reactor.[^12]
 - February 18 - Construction begins on the electromagnetic separation plant for enriching uranium at Oak Ridge, Tennessee.
 - April 1 - The Los Alamos Laboratory is established in New Mexico.
@@ -108,6 +108,7 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 - November 4 - The X-10 Graphite Reactor goes critical at Oak Ridge.
 
 #### 1944
+
 - April 5 - Emilio Segre receives the first sample of plutonium from the Oak Ridge reactor and discovers that the fission rate is too high for a gun-type weapon.
 - July 17 - The Thin Man gun-type is abandoned, as it is impractical to use with plutonium, making an implosion-type weapon, the Fat Man bomb, a top priority. Research on a uranium gun-type continues with Little Boy, a gun-type using Uranium-235 at Clinton Engineer Works in Oak Ridge, Tennessee.
 - September 22 - The first Radioactive Lanthanum (RaLa) Experiment with a radioactive source takes place at Los Alamos.
@@ -115,6 +116,7 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 - November - Samuel Goudsmit concludes that German scientists didn’t make substantial progress towards nuclear bombs or reactors, as the programs were not a high priority.
 
 #### 1945
+
 - February 2 - The first plutonium created at the Hanford Site arrives at Los Alamos.
 - April 27 - The first meeting of the Target Committee at Los Alamos occurs to determine potential locations to bomb in Japan, such as Kyoto, Hiroshima, Yokohama, the Kokura Arsenal, and Niigata.
 - May 7 - Germany surrenders.
@@ -131,6 +133,7 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 - August 20 - A special committee is established to work on uranium under the State Defense Committee of the USSR.[^14]
 
 #### 1946
+
 - February - A Soviet spy ring in Canada is exposed by defector Igor Gouzenko, resulting in “atomic spy hysteria,” which pushed American Congressional discussions about postwar atomic regulation.
 - July 1 - The testing at Bikini Atoll in the Marshall Islands commenced with the test of the Able bomb as part of Operation Crossroads.
 - July 25 - The Baker bomb is tested at Bikini Atoll to determine the effects of a nuclear device underwater. Baker sank eight ships and permanently contaminated the rest.  
@@ -138,11 +141,13 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 - December 25 - The F-1 reactor achieves a self-sustaining chain reaction at the Kurchatov Institute in Russia. This is the first working nuclear reactor in the USSR and Europe.[^15]
 
 #### 1947
+
 - January 1 - The *Atomic Energy Act of 1946,* or the McMahon Act, takes effect. The Manhattan Project is turned over to the United States Atomic Energy Commission.
 - March 12, 1947 - December 26, 1991 (44 years and 9 months) The Cold War Begins.
 - August 15 - The Manhattan District is abolished.
 
 #### 1949
+
 - March 1 - The AEC announces the selection of a site in Idaho for the National Reactor Testing Station.
 - August 29 - The Soviet Union tests its first atomic bomb, called ‘First Lightning’ by the West.
 
@@ -150,26 +155,27 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 `image src=wc:Crossroads_baker_explosion.jpg`
 `image src=wc:Operation_Crossroads_Baker.jpg`
 
-
-[^12]: “Manhattan Project Timeline.” National Parks Service, 4 Apr. 2023, [https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.](https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.)
-
-[^13]: “Timeline.” The National Museum of Nuclear Science & History, [https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/](https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/)
-
-[^14]: Holloway, David. “Entering the Nuclear Arms Race: The Soviet Decision to Build the Atomic Bomb, 1939-45.” Social Studies of Science, vol. 11, no. 2, 1981, pp. 159–197, https://doi.org/10.1177/030631278101100201. [https://www.jstor.org/stable/pdf/284865.pdf](https://www.jstor.org/stable/pdf/284865.pdf)
-
-[^15]: “F-1 (Nuclear Reactor).” Wikipedia, 1 July 2023, en.wikipedia.org/wiki/F-1_(nuclear_reactor).[https://en.wikipedia.org/wiki/F-1_(nuclear_reactor)](https://en.wikipedia.org/wiki/F-1_(nuclear_reactor))
-
 ### 1950s
+
 #### 1950
+
 - December 20 - The first usable power from a nuclear source lights four lightbulbs at the Experimental Breeder Reactor 1 in Arco, Idaho.
+
 #### 1952
+
 - November 1 - The United States tests the first hydrogen bomb, called Ivy Mike, which had a yield of 10.4 megatons.
+
 #### 1953
+
 - August 12 - The Soviet Union tests a thermonuclear device, RDS-6s, for the first time. 
+
 #### 1954
+
 - March 1 - The United States performs the Castle Bravo test, resulting in the largest yield by an American nuclear device at about 15 megatons.
 - June 27 - The world’s first grid-connected nuclear power plant, Obninsk, is put into operation in the Soviet Union.[^16]
+
 #### 1955
+
 - July 17 - Arco, Idaho, becomes the first nuclear-powered town using the water boiler reactor BORAX III.
 - August 8 - 20 - The first United Nations International Conference on the Peaceful Uses of Atomic Energy was held in Geneva, Switzerland.
 - November 22 - The Soviet Union tests its first hydrogen bomb.
@@ -177,8 +183,10 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 `image src=wc:Soviet_postage_stamp_commemorating_the_Conference_on_the_Peaceful_Uses_of_Atomic_Energy,_1958_-_DPLA_-_4c7c8f556f94242a4e83be85a2de6ae7.jpg caption="Soviet Postage Stamp for the Confrence on the Peaceful Uses of Atomic Energy"`
 
 #### 1956
+
 - October 17 - The first nuclear power station built to produce commercial energy, Calder Hall, is opened in Seascale, England.[^17]
 #### 1957
+
 - October 1 - The United Nations created the *International Atomic Energy Agency* (IAEA) to promote peaceful applications of nuclear power and to prevent the spread of nuclear weapons.
 - October - The first successful Soviet Union test of the intercontinental ballistic missile (ICBM) takes place, and Sputnik 1 is launched.
 - November 3 - The Soviet Union launches Sputnik 2, a satellite carrying a dog named Laika into space. Laika is the first earthling to reach space. There was never a plan for her reentry. Dr. Vladimir Yazdovsky took Laika home to play with his children before the launch, writing “Laika was quiet and charming ... I wanted to do something nice for her: She had so little time left to live.”[^18] Yevgeniy Shabrov recalls from the day of the launch: “after placing Laika in the container and before closing the hatch, we kissed her nose and wished her bon voyage, knowing that she would not survive the flight.”[^19]
@@ -186,12 +194,141 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 `image src=wc:Лайка_(собака-космонавт)1.jpg caption="Laika, the first earthling in space"`
 
 #### 1958
+
 - January 31 - The first satellite launched by the United States, Explorer 1, reaches space.[^20]
 - The first successful United States test of ICBM took place, and NASA is created.
 - The United States, the Soviet Union, and the United Kingdom test over 100 nuclear devices.
 
 #### 1959
+
 - The world’s first nuclear-powered ice-breaker ship, Lenin, is constructed. [^21]
+
+### 1960s
+
+#### 1960
+
+- February 13 - France conducts its first nuclear test, making them the world’s fourth nuclear power.
+- November 22 - The United States Navy commissions the world’s largest ship, the USS Enterprise, a nuclear-powered aircraft carrier.
+
+#### 1961
+
+- January 31 - The first hominid, an American chimpanzee named Ham, reaches space and successfully survives the landing.
+- April 12 - Yuri Gagarin of the Soviet Union is the first man in space aboard the Vostok 1.
+- October 30 - The Soviet Union tests a hydrogen bomb with a yield of 50 megatons named *Tsar Bomba*. The biggest nuclear device ever detonated by the United States was *Castle Bravo,* with a yield of about 15 megatons.[^22]
+
+`image src=wc:Ham_Retreival_GPN-2000-001004.jpg caption="Ham, the first hominid in space"`
+`image src=wc:Ham_Tries_Out_His_Life_Support_System_-_GPN-2002-000046.jpg`
+`image src=wc:Chimpanzee_Ham_in_Biopack_Couch_for_MR-2_flight_MSFC-6100114.jpg`
+`image src=wc:Yuri_Gagarin_Kosmonaut_stamps.png caption="Yuri Gagarin, the first man in space"`
+`image src=wc:Yuri_Gagarin_Capsule_and_space_suit.jpg caption="Yuri Gagarin, the first man in space"`
+`image src=wc:Yuri_Gagarin_(1961)_-_Restoration.jpg`
+
+#### 1962
+
+- October 16 - 29 - The *Cuban Missile Crisis* is a thirteen-day period in which the United States and the Soviet Union come the closest to nuclear war.[^23]
+#### 1963
+
+- August 5 - The *Test Ban Treaty* between the Soviet Union, the United States, and the United Kingdom is signed, limiting the kinds of nuclear testing that can be done. 
+#### 1964
+
+- August 26 - President Johnson signs the *Private Ownership of Special Nuclear Materials Act,* allowing the nuclear power industry to create its own fuel and requiring private ownership of uranium fuel.
+#### 1965
+
+- March 18 - Alexei Leonov of the Soviet Union conducts the first ever spacewalk.
+- April 3 - A nuclear reactor, SNAP-10A - Systems for Nuclear Auxiliary Power - is operated in space for the first time, launched by the United States.
+
+`image src=wc:Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_(10967640793).jpg caption="SNAP-10A Reactor"`
+
+#### 1968
+
+- July 1 - The *Treaty on the Non-proliferation of Nuclear Weapons* (NPT) is signed.[^24]
+#### 1969
+
+- July 20 - The Apollo 11 successfully reaches the moon with a crew of Neil Armstrong, Edwin “Buzz” Aldrin, and Michael Collins.
+- 1969-1979 - The détente begins, easing the tension between the Soviet Union and the United States.
+
+`image src=wc:Apollo_11_Crew.jpg caption="Apollo 11 and its crew"`
+`image src=wc:Aldrin_Apollo_11_original.jpg`
+`image src=wc:Apollo_11_Launch_-_GPN-2000-000630.jpg`
+
+### 1970s
+
+#### 1970
+
+- March 5 - The *Treaty for Non-Proliferation of Nuclear Weapons* becomes effective.
+
+#### 1972
+
+- May 26 - The *Interim Strategic Arms Limitation Treaty,* or SALT I, and the *Anti-Ballistic Missile* Treaty, or ABM, is signed by the United States and the Soviet Union. 
+- The first commercial breeder reactor in the Soviet Union goes online in Shevchenko, Kazakhstan.[^25]
+
+#### 1974
+
+- October 11 - The *Energy Reorganization Act* of 1974 divides the Atomic Energy Commission’s functions, creating the Energy Research and Development Administration (ERDA) for research and design and the Nuclear Regulatory Commission (NRC) to regulate nuclear power.
+- November 1 - The first RBMK reactor begins operating at the Leningrad Nuclear Power Plant. 
+- A second nuclear-powered ice-breaker ship, Arktika, is constructed.
+
+#### 1977
+
+- August 4 - President Carter signs the *Department of Energy Organization Act,* establishing the Department of Energy.
+- October 1 - The Department of Energy begins operations.
+- A third nuclear-powered ice-breaker ship, Sibir, is constructed.
+
+#### 1979
+
+- March 28 - The Three Mile Island reactor near Harrisburg, Pennsylvania, partially melts down, prompting the NRC to impose stricter regulations and inspection procedures.[^26]
+- June 17 - The United States and the Soviet Union sign the SALT II treaty, which limits the nuclear forces of both nations.
+- December 24 - The Soviet Union invades Afghanistan, halting the consideration of the SALT II treaty and beginning a nine-year war.
+
+`image src=wc:3MileIsland.jpg caption="Three Mile Island Reactor"`
+
+### 1980s
+
+#### 1980
+
+- January 2 - The détente ends after President Carter responds to the Soviet Union’s invasion of Afghanistan.
+
+#### 1983
+
+- January 7 - The *Nuclear Waste Policy Act* (NWPA) establishes a program for disposing of radioactive waste and spent fuel.
+- March 23 - President Reagan announced Strategic Defense Initiative (SDI), also called the “Star Wars Program,” a missile defense system to prevent attack by intercontinental or submarine-launched ballistic missiles.[^27]
+
+#### 1986
+
+- April 26 - Reactor 4 of the Chornobyl Power Plant in Prypiat, Ukraine, explodes.[^28]
+
+`image src=wc:Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg caption="Chornobyl 2013`
+
+
+[^1]: “Outline History of Nuclear Energy.” World Nuclear Association, Nov. 2020. [https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx](https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx)
+
+[^2]: “The History of Nuclear Energy.” The Department of Energy, [https://www.energy.gov/ne/articles/history-nuclear-energy](https://www.energy.gov/ne/articles/history-nuclear-energy)
+
+[^3]: “Ionizing Radiation, Health Effects and Protective Measures.” World Health Organization, 29 Apr. 2016, [https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-health-effects-and-protective-measures](https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-health-effects-and-protective-measures)
+
+[^4]: Stuewer, Roger H. “Nuclear Physicists at the Crossroads.” The Age of Innocence: Nuclear Physics Between the First and Second World Wars, Oxford University Press, 2022, pp. 216–247, https://academic.oup.com/book/26094/chapter/194080423. Accessed 19 July 2023. [https://academic.oup.com/book/26094/chapter/194080423](https://academic.oup.com/book/26094/chapter/194080423)
+
+[^5]: “Kharkiv Institute of Physics and Technology.” Wikipedia, 2 Feb. 2023, en.wikipedia.org/wiki/Kharkiv_Institute_of_Physics_and_Technology. [https://en.wikipedia.org/wiki/Kharkiv_Institute_of_Physics_and_Technology](en.wikipedia.org/wiki/Kharkiv_Institute_of_Physics_and_Technology.)
+
+[^6]: “Case Files: Enrico Fermi.” The Franklin Institute, 9 Feb. 2023, [https://www.fi.edu/en/news/case-files-enrico-fermi](https://www.fi.edu/en/news/case-files-enrico-fermi)
+
+[^7]: Fernflores, Francisco. “The Equivalence of Mass and Energy.” Stanford Encyclopedia of Philosophy, 15 Aug. 2019, plato.stanford.edu/entries/equivME/. [https://plato.stanford.edu/entries/equivME/](https://plato.stanford.edu/entries/equivME/)
+
+[^8]: “Short History of the Russian Nuclear Industry.” Rosatom, rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/. Accessed 17 July 2023. [https://rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/](https://rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/)
+
+[^9]: Lerner, Louise. “The First Nuclear Reactor, Explained.” *University of Chicago News*, 25 May 2023, [https://news.uchicago.edu/explainer/first-nuclear-reactor-explained](https://news.uchicago.edu/explainer/first-nuclear-reactor-explained)
+
+[^10]: Drapa, Michael. “Race to the First Nuclear Chain Reaction.” *University of Chicago News*, 23 Oct. 2017, [https://news.uchicago.edu/story/race-first-nuclear-chain-reaction](https://news.uchicago.edu/story/race-first-nuclear-chain-reaction)
+
+[^11]: Drapa, Michael. “Ted Petry, Last Known Witness to Pioneering Nuclear Reaction at UChicago, 1924-2018.” *University of Chicago News*, 7 Aug. 2018, [https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018](https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018)
+
+[^12]: “Manhattan Project Timeline.” National Parks Service, 4 Apr. 2023, [https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.](https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.)
+
+[^13]: “Timeline.” The National Museum of Nuclear Science & History, [https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/](https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/)
+
+[^14]: Holloway, David. “Entering the Nuclear Arms Race: The Soviet Decision to Build the Atomic Bomb, 1939-45.” Social Studies of Science, vol. 11, no. 2, 1981, pp. 159–197, https://doi.org/10.1177/030631278101100201. [https://www.jstor.org/stable/pdf/284865.pdf](https://www.jstor.org/stable/pdf/284865.pdf)
+
+[^15]: "F-1 (Nuclear Reactor)." Wikipedia, 1 July 2023, en.wikipedia.org/wiki/F-1_(nuclear_reactor).[https://en.wikipedia.org/wiki/F-1_(nuclear_reactor)](https://en.wikipedia.org/wiki/F-1_(nuclear_reactor)
 
 [^16]: “Obninsk Nuclear Power Plant.” Wikipedia, 2 July 2023, en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant. [https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant](https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant)
 
@@ -205,89 +342,16 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 
 [^21]: Semenov, B.A. “Nuclear Power in the Soviet Union.” International Atomic Energy Agency, www.iaea.org/sites/default/files/25204744759.pdf. Accessed 19 July 2023. [https://www.iaea.org/sites/default/files/25204744759.pdf](https://www.iaea.org/sites/default/files/25204744759.pdf)
 
-### 1960s
-#### 1960
-- February 13 - France conducts its first nuclear test, making them the world’s fourth nuclear power.
-- November 22 - The United States Navy commissions the world’s largest ship, the USS Enterprise, a nuclear-powered aircraft carrier.
-
-#### 1961
-- January 31 - The first hominid, an American chimpanzee named Ham, reaches space and successfully survives the landing.
-- April 12 - Yuri Gagarin of the Soviet Union is the first man in space aboard the Vostok 1.
-- October 30 - The Soviet Union tests a hydrogen bomb with a yield of 50 megatons named *Tsar Bomba*. The biggest nuclear device ever detonated by the United States was *Castle Bravo,* with a yield of about 15 megatons.[^22]
-
-`image src=wc:Ham_Retreival_GPN-2000-001004.jpg caption="Ham, the first hominid in space"`
-`image src=wc:Ham_Tries_Out_His_Life_Support_System_-_GPN-2002-000046.jpg`
-`image src=wc:Chimpanzee_Ham_in_Biopack_Couch_for_MR-2_flight_MSFC-6100114.jpg`
-`image src=wc:Yuri_Gagarin_Kosmonaut_stamps.png caption="Yuri Gagarin, the first man in space"`
-`image src=wc:Yuri_Gagarin_Capsule_and_space_suit.jpg caption="Yuri Gagarin, the first man in space"`
-`image src=wc:Yuri_Gagarin_(1961)_-_Restoration.jpg`
-
-
 [^22]: “Tsar Bomba.” The National Museum of Nuclear Science & History, 8 Aug. 2014, [https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/](https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/)
-#### 1962
-- October 16 - 29 - The *Cuban Missile Crisis* is a thirteen-day period in which the United States and the Soviet Union come the closest to nuclear war.[^23]
-#### 1963
-- August 5 - The *Test Ban Treaty* between the Soviet Union, the United States, and the United Kingdom is signed, limiting the kinds of nuclear testing that can be done. 
-#### 1964
-- August 26 - President Johnson signs the *Private Ownership of Special Nuclear Materials Act,* allowing the nuclear power industry to create its own fuel and requiring private ownership of uranium fuel.
-#### 1965
-- March 18 - Alexei Leonov of the Soviet Union conducts the first ever spacewalk.
-- April 3 - A nuclear reactor, SNAP-10A - Systems for Nuclear Auxiliary Power - is operated in space for the first time, launched by the United States.
-
-`image src=wc:Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_(10967640793).jpg caption="SNAP-10A Reactor"`
-
-#### 1968
-- July 1 - The *Treaty on the Non-proliferation of Nuclear Weapons* (NPT) is signed.[^24]
-#### 1969
-- July 20 - The Apollo 11 successfully reaches the moon with a crew of Neil Armstrong, Edwin “Buzz” Aldrin, and Michael Collins.
-- 1969-1979 - The détente begins, easing the tension between the Soviet Union and the United States.
-
-`image src=wc:Apollo_11_Crew.jpg caption="Apollo 11 and its crew"`
-`image src=wc:Aldrin_Apollo_11_original.jpg`
-`image src=wc:Apollo_11_Launch_-_GPN-2000-000630.jpg`
 
 [^23]: Mahnken, Thomas G., et al. “The United States and the Cold War Arms Race.” *Arms Races in International Politics: From the Nineteenth to the Twenty-First Century*, (Oxford, 2016; online edn, Oxford Academic, 21 Jan. 2016) [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
 
 [^24]: “U.S.-Russia Nuclear Arms Control.” Council on Foreign Relations, www.cfr.org/timeline/us-russia-nuclear-arms-control. Accessed 7 July 2023. [https://www.cfr.org/timeline/us-russia-nuclear-arms-control](https://www.cfr.org/timeline/us-russia-nuclear-arms-control)
 
-### 1970s
-#### 1970
-- March 5 - The *Treaty for Non-Proliferation of Nuclear Weapons* becomes effective.
-#### 1972
-- May 26 - The *Interim Strategic Arms Limitation Treaty,* or SALT I, and the *Anti-Ballistic Missile* Treaty, or ABM, is signed by the United States and the Soviet Union. 
-- The first commercial breeder reactor in the Soviet Union goes online in Shevchenko, Kazakhstan.[^25]
-
 [^25]: Pryde, Philip R. “Nuclear Energy in the Soviet Union.” Current History, vol. 77, no. 450, 1979, pp. 115–35. JSTOR, http://www.jstor.org/stable/45319372. Accessed 19 July 2023.[https://www.jstor.org/stable/pdf/45319372.pdf](https://www.jstor.org/stable/pdf/45319372.pdf)
-#### 1974
-- October 11 - The *Energy Reorganization Act* of 1974 divides the Atomic Energy Commission’s functions, creating the Energy Research and Development Administration (ERDA) for research and design and the Nuclear Regulatory Commission (NRC) to regulate nuclear power.
-- November 1 - The first RBMK reactor begins operating at the Leningrad Nuclear Power Plant. 
-- A second nuclear-powered ice-breaker ship, Arktika, is constructed.
-#### 1977
-- August 4 - President Carter signs the *Department of Energy Organization Act,* establishing the Department of Energy.
-- October 1 - The Department of Energy begins operations.
-- A third nuclear-powered ice-breaker ship, Sibir, is constructed.
-#### 1979
-- March 28 - The Three Mile Island reactor near Harrisburg, Pennsylvania, partially melts down, prompting the NRC to impose stricter regulations and inspection procedures.[^26]
-- June 17 - The United States and the Soviet Union sign the SALT II treaty, which limits the nuclear forces of both nations.
-- December 24 - The Soviet Union invades Afghanistan, halting the consideration of the SALT II treaty and beginning a nine-year war.
-
-`image src=wc:3MileIsland.jpg caption="Three Mile Island Reactor"`
 
 [^26]: “Backgrounder on the Three Mile Island Accident.” United States Nuclear Regulatory Commission, 15 Nov. 2015, [https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html)
 
-
-### 1980s
-#### 1980
-- January 2 - The détente ends after President Carter responds to the Soviet Union’s invasion of Afghanistan.
-#### 1983
-- January 7 - The *Nuclear Waste Policy Act* (NWPA) establishes a program for disposing of radioactive waste and spent fuel.
-- March 23 - President Reagan announced Strategic Defense Initiative (SDI), also called the “Star Wars Program,” a missile defense system to prevent attack by intercontinental or submarine-launched ballistic missiles.[^27]
-#### 1986
-- April 26 - Reactor 4 of the Chornobyl Power Plant in Prypiat, Ukraine, explodes.[^28]
-
-`image src=wc:Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg caption="Chornobyl 2013`
-
 [^27]: “Strategic Defense Initiative (SDI).” The National Museum of Nuclear Science & History, 18 July 2018, [https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/](https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/)
+
 [^28]: Kenaston, Elliot. “The Accident: A Timeline of the Chernobyl Reactor Explosion.” [https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/](https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/)
-
-

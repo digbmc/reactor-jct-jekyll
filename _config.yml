@@ -1,6 +1,6 @@
 title: The Basics of Nuclear Energy
 
-description: 'By the 2023 <a href="https://digitalscholarship.blogs.brynmawr.edu/digital-scholarship-summer-fellows-program/">Digital Scholarship Summer Fellows</a> at Bryn Mawr College'
+description: Created by the 2023 Digital Scholarship Summer Fellows at Bryn Mawr College
 
 #author:
   #name: 
@@ -22,16 +22,16 @@ collections:
     output: true
     permalink: /:collection/:path/
   podcasts:
-    output: true
+    output: false
     permalink: /:collection/:path/
   pages:
     output: true
     permalink: /:collection/:path/
   admin:
-    output: true
+    output: false
     permalink: /:collection/:path/
   examples:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 show_excerpts: true
