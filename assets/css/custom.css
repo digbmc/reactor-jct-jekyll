@@ -151,3 +151,44 @@ button.search__toggle {
   .page-content { padding-top: 0; }
   article.post { margin-top: 0; }
 }
+
+/* ****** Custom CSS forwarded from old site ****** */
+
+main#juncture {
+    background-color: #c6d1d3;
+}
+
+#juncture h1, h2, h3, h4, h5, h6 {
+    font-family:'EB Garamond', serif;
+    src: url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+}
+
+body {
+    font-family: "EB Garamond", serif;
+    background-color: #c6d1d3;
+    color: black;
+    margin: 0;
+}
+
+
+
+/* Footnote weird space fix */
+/*
+sup::before {
+    max-height: 10px;
+    margin: 0;
+}
+
+:target:before {
+    margin: 0;
+} /*
+
+/* Footer color */
+
+ve-footer .main {
+    background-color: #c6d1d3;
+}
+
+ve-footer div.main.sticky {
+    background-color: #c6d1d3 !important;
+}
