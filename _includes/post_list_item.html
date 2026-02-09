@@ -20,7 +20,7 @@
   {%- if post.description -%}
     {% assign excerpt = post.description %}
   {% else %}
-    {% assign excerpt = post.content | split: '<p>' | slice: 1 | first | split: '</p>' | first | truncatewords: 20 %}
+    {% assign excerpt = post.content | split: '<p>' | slice: 1 | first | split: '</p>' | first | truncatewords: 50 %}
   {%- endif -%}
   {{ excerpt }}
 

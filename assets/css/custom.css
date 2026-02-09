@@ -155,16 +155,20 @@ button.search__toggle {
 /* ****** Custom CSS forwarded from old site ****** */
 
 main#juncture {
-    background-color: #c6d1d3;
+  background-color: #c6d1d3;
 }
 
-h1, h2, h3, h4, h5, h6, a.site-title, a.nav-item {
-    font-family: "Roentgen Caps", "Helvetica Neue", Arial, sans-serif;
+h1, h2, a.site-title, a.nav-item {
+  font-family: "Roentgen Caps", "Helvetica Neue", Arial, sans-serif;
+}
+
+h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
 body {
-    font-family: "EB Garamond", serif;
-    background-color: #c6d1d3;
-    color: black;
-    margin: 0;
+  font-family: "EB Garamond", serif;
+  background-color: #c6d1d3;
+  color: black;
+  margin: 0;
 }
