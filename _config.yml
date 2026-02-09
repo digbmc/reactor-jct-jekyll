@@ -1,25 +1,23 @@
-title: Website Title
+title: The Basics of Nuclear Energy
 
-description: Website Description (goes in footer).
+description: By the 2023 Digital Scholarship Summer Fellows at Bryn Mawr College
 
-author:
-  name: Site owner name
-  email: site_owner@some_domain.com
+#author:
+  #name: 
+  #email: 
 
-#github:
-  #owner_name: gh-owner
-  #repository_name: gh-repo
-  #source:
-    #branch: main
+github:
+  owner_name: digbmc
+  repository_name: reactor-jct-jekyll
+  source:
+    branch: main
 
 nav_pages:
   - _pages/index.md
-  - _articles/index.md
+  - _articles/history.md
   # - _podcasts/index.md
   - _pages/about.md
   - _pages/contact.md
-  - _admin/index.md
-  - _examples/index.md
 
 collections:
   articles:
