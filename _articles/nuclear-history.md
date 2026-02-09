@@ -223,8 +223,8 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 `image src=wc:Ham_Tries_Out_His_Life_Support_System_-_GPN-2002-000046.jpg`
 `image src=wc:Chimpanzee_Ham_in_Biopack_Couch_for_MR-2_flight_MSFC-6100114.jpg`
 `image src=wc:Yuri_Gagarin_(1961)_-_Restoration.jpg caption="Yuri Gagarin, the first man in space`
-{%comment%}`image src=wc:Yuri_Gagarin_Kosmonaut_stamps.png`{% endcomment %}
 `image src=wc:Yuri_Gagarin_Capsule_and_space_suit.jpg`
+{%comment%}`image src=wc:Yuri_Gagarin_Kosmonaut_stamps.png`{% endcomment %}
 
 #### 1962
 
