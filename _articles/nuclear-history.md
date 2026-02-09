@@ -231,6 +231,7 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 #### 1965
 - March 18 - Alexei Leonov of the Soviet Union conducts the first ever spacewalk.
 - April 3 - A nuclear reactor, SNAP-10A - Systems for Nuclear Auxiliary Power - is operated in space for the first time, launched by the United States.
+
 `image src=wc:Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_(10967640793).jpg caption="SNAP-10A Reactor"`
 
 #### 1968
