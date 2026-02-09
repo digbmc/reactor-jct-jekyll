@@ -158,8 +158,8 @@ main#juncture {
     background-color: #c6d1d3;
 }
 
-#juncture h1, h2, h3, h4, h5, h6 {
-    font-family:'EB Garamond', serif;
+h1, h2, h3, h4, h5, h6, a.site-title, a.site-nav {
+    font-family: "Roentgen Caps", "Helvetica Neue", Arial, sans-serif;
     src: url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
 }
 
