@@ -5,7 +5,7 @@ description:
 author: 
 date: 2023-08-01
 tags: 
-thumbnail: 
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/6/6f/Laura_and_Enrico_Fermi_1954.jpg
 permalink: 
 layout: post
 published: true
