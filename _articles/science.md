@@ -1,5 +1,6 @@
 ---
 title: Science
+nav_title: Science
 description:
 author: 
 date: 2023-08-01

@@ -1,5 +1,6 @@
 ---
 title: Nuclear History
+nav_title: History
 description:
 author: 
 date: 2023-08-01

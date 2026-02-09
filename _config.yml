@@ -14,8 +14,8 @@ github:
 
 nav_pages:
   - _pages/index.md
-  - _articles/nuclear-history.md||History
-  - _articles/science.md||Science
+  - _articles/nuclear-history.md
+  - _articles/science.md
 
 collections:
   articles:
