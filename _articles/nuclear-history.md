@@ -12,7 +12,9 @@ published: true
 featured: false
 ---
 
-`header title="The History of Nuclear Power" img=wc:Laura_and_Enrico_Fermi_1954.jpg height=500`
+{% comment %}`header title="The History of Nuclear Power" img=wc:Laura_and_Enrico_Fermi_1954.jpg height=500`{% endcomment %}
+
+# The History of Nuclear Power
 
 ## Origins of Nuclear Research[^1]
 
