@@ -4,6 +4,6 @@ title: Home
 permalink: /
 ---
 
-# The Basics of Nuclear Energy 
+# Nuclear Power
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Welcome to the digital exhibition on nuclear power and technology. This exhibition explores the history, science, and future of nuclear power. Nuclear power is a controversial topic, but it is an important one to understand. The goal of this exhibition is to provide you with the information you need to draw informed, unbiased conclusions on nuclear power, in order to enhance your experience of the overall Chornobyl reactor room project. 
