@@ -14,11 +14,9 @@ featured: false
 
 ### How Nuclear Energy is Generated
 
-`image src=wc:Liquid_drop_model_of_nuclear_fission.jpg right static`
-
 The first law of thermodynamics asserts that heat is energy, which is generated in the process of nuclear fission. The purpose of nuclear reactors is to house this process in order to reap its energy output. Fission occurs when a neutron hits a larger atom's nucleus which is  split into two smaller atoms and some neutrons. The neutrons created from the split can then generate a chain reaction by hitting other large atoms and so on. In the case of most nuclear reactors, the fuel of choice is uranium, which acts as the large atom in nuclear fission. Uranium is used because its atoms easily split apart, it is easy to initiate and control, and it is abundant on Earth. [^1]
 
-
+`image src=wc:Liquid_drop_model_of_nuclear_fission.jpg`
 
 ### The Process of Nuclear Energy Production
 
@@ -52,7 +50,7 @@ The previous two reactors were moderated and cooled by water, which means that t
 
 #### RMBK Reactor
 
-![](https://www.world-nuclear.org/getmedia/5443eaa9-c453-495a-ac5d-2b4d9f3a28ea/light-water-graphite-mod-reactor-lwgr.png.aspx)
+![](https://www.world-nuclear.org/getmedia/5443eaa9-c453-495a-ac5d-2b4d9f3a28ea/light-water-graphite-mod-reactor-lwgr.png)
 
 The RMBK diagram showing its complex construction.[^4]
 
@@ -69,35 +67,6 @@ For more information on the design flaw topic: [Cutting Corners](https://digital
 ### The Post-Chornobyl Changes
 
 In order to prevent further accidents, there were some modifications done to the reactor design for the health and safety of the operators and those in the surrounding area. The first was the reduction of the void coefficient of reactivity. In order to do that, the design was changed in three ways: 80-90 new neutron absorbers were installed in the core to inhibit operation at low power; the amount of control rods was increased from 26-30 rods to 43-48 rods; and fuel enrichment was increased from 2% to 2.4%. The second large modification was the improvement of the response efficiency of the emergency protection system. A fast-acting emergency protection system, FAEP, was installed which rapidly introduced negative reactivity. The third modification was the introduction of calculation programs to provide an indication of the value of the effective number of control rods remaining in the core in the control room so that the operators would make decisions based on recent and correct data. Finally, measures were introduced to prevent operators from bypassing the emergency safety systems while the reactor is active. All of these design changes were necessary for the safety and security of the reactor and its operators. [^5]
-
-
-## Further Reading {.cards}
-
-### Accidents & Disasters {href="/nuclear-disasters"}
-
-![](https://upload.wikimedia.org/wikipedia/commons/1/15/Chernobyl_2019_G03.jpg)
-
-*A representative survey of nuclear incidents.*
-
-### Present & Future {href="/present-and-future"}
-
-![](https://upload.wikimedia.org/wikipedia/commons/5/54/De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3859%29.jpg)
-
-*The present state and predicted future of nuclear energy.*
-
-### Nuclear History {href="/nuclear-history"}
-
-![](https://upload.wikimedia.org/wikipedia/commons/6/6f/Laura_and_Enrico_Fermi_1954.jpg)
-
-*The history of nuclear technology from 1930s to the 1980s.*
-
-
-### Reactor Room Project {href=https://digitalscholarship.brynmawr.edu/reactor-room/}
-
-
-![](https://digitalscholarship.brynmawr.edu/reactor-room/assets/images/rothbart-chernobyl-gauges-web.jpg)
-
-*Return to main page.*
 
 
 [^1]: "How Does a Nuclear Reactor Work" [https://world-nuclear.org/nuclear-essentials/how-does-a-nuclear-reactor-work.aspx](https://world-nuclear.org/nuclear-essentials/how-does-a-nuclear-reactor-work.aspx) Accessed 12 June 2023.
