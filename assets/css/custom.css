@@ -173,10 +173,20 @@ body {
   margin: 0;
 }
 
-a, .post-link {
+/* link colors */
+
+a, a.post-link {
   color: #7a0000;
 }
 
 a:visited {
   color: #8e2626;
+}
+
+a.post-link:visited {
+  color: #7a0000;
+}
+
+a:visited:hover, a.post-link:visited:hover {
+    color: #111111;
 }
