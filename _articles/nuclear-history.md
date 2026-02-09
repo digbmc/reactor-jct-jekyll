@@ -187,6 +187,7 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 #### 1956
 
 - October 17 - The first nuclear power station built to produce commercial energy, Calder Hall, is opened in Seascale, England.[^17]
+
 #### 1957
 
 - October 1 - The United Nations created the *International Atomic Energy Agency* (IAEA) to promote peaceful applications of nuclear power and to prevent the spread of nuclear weapons.
@@ -228,12 +229,15 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 #### 1962
 
 - October 16 - 29 - The *Cuban Missile Crisis* is a thirteen-day period in which the United States and the Soviet Union come the closest to nuclear war.[^23]
+
 #### 1963
 
 - August 5 - The *Test Ban Treaty* between the Soviet Union, the United States, and the United Kingdom is signed, limiting the kinds of nuclear testing that can be done. 
+
 #### 1964
 
 - August 26 - President Johnson signs the *Private Ownership of Special Nuclear Materials Act,* allowing the nuclear power industry to create its own fuel and requiring private ownership of uranium fuel.
+
 #### 1965
 
 - March 18 - Alexei Leonov of the Soviet Union conducts the first ever spacewalk.
@@ -244,6 +248,7 @@ When two atoms are combined, or one is broken apart, energy is released – thes
 #### 1968
 
 - July 1 - The *Treaty on the Non-proliferation of Nuclear Weapons* (NPT) is signed.[^24]
+
 #### 1969
 
 - July 20 - The Apollo 11 successfully reaches the moon with a crew of Neil Armstrong, Edwin “Buzz” Aldrin, and Michael Collins.
