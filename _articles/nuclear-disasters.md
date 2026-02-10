@@ -66,7 +66,7 @@ With no coolant system in place, the crew had to fix the leak using raincoats an
 
 The person in charge of the test failed to report the damage to superiors and did not perform necessary repairs. Additionally, the captain did not respond immediately after the leak occurred. The crew members were sworn to secrecy, routinely lying to doctors during checkups for decades following the accident.
 
-.ve-media wc:K-19.jpg static caption="Problem-plagued K-19, disabled in the North Atlantic on 29 February 1972. Picture taken on board of the US Navy plane."
+`image src=wc:K-19.jpg caption="Problem-plagued K-19, disabled in the North Atlantic on 29 February 1972. Picture taken on board of the US Navy plane."`
 
 <h4 id="k27">K-27</h4>
 
@@ -82,7 +82,7 @@ When the submarine returned to dock, most of the crew members exposed to radiati
 
 The captain did make a crucial decision to ignore orders from the division to cut the engines and remain in the submarine. Recognizing the dangers of prolonged exposure, he took action to safeguard the crew by preventing further hours of potential radiation poisoning.
 
-`image wc:The_dead_sailors_of_the_submarine_%22K-27%22.jpg caption="The deceased sailors of the submarine K-27"`
+`image src=wc:The_dead_sailors_of_the_submarine_%22K-27%22.jpg caption="The deceased sailors of the submarine K-27"`
 
 <h4 id="Texas-radiological-assault">Texas Radiological Assault</h4>
 
@@ -90,7 +90,7 @@ A man from ==Harris County, Texas=={flyto:Q26676,7} deliberately exposed his 11-
 
 As a result, the boy underwent 16 operations between 1974 and 1978, including numerous skin grafts and castration. The man was sentenced to five years in prison. [^7] 
 
-`image wc:Strahler_CS137.jpg caption="137 Cesium radioactive source/emitter"`
+`image src=wc:Strahler_CS137.jpg caption="137 Cesium radioactive source/emitter"`
 
 <h4 id="Tammiku-Stolen-Source">Tammiku Stolen Source</h4>
 
@@ -108,7 +108,7 @@ After approximately two months, the victim began to suspect a connection between
 
 The ==San Jose=={flyto:Q3070,7} radiotherapy incident in 1996 involved a significant error in a ==<u>Cobalt 60</u>=={description="Cobalt 60 (Co-60) is a radioactive isotope used in medical applications for radiotherapy treatment. It is produced as a byproduct of nuclear reactors when metal structures, such as steel rods, are exposed to neutron radiation."} radiotherapy unit, leading to overdosages of approximately 60%. This incident resulted in the deaths of 7 to 17 individuals, although there were debates regarding whether the deaths were caused by the radiotherapy exposure or the underlying illnesses themselves. Additionally, 81 individuals suffered injuries as a result of the overexposures. [^5] [^11]   
 
-`image wc:Hospital_San_Juan_de_Dios._San_José._Costa_Rica.jpg caption="Hospital San Juan de Dios. San José"`
+`image src=wc:Hospital_San_Juan_de_Dios._San_José._Costa_Rica.jpg caption="Hospital San Juan de Dios. San José"`
 
 <h4 id="Orphaned-source-in-Goiania-Brazil">Orphaned Source in Goiania Brazil</h4>
 
@@ -118,7 +118,7 @@ A number of people examined the material closely, took parts of it home, and dis
 
 Approximately 112,800 people were examined, with 129 individuals sustaining injuries and 20 requiring hospitalization. There were five deaths and numerous injuries, including radiation burns, with some individuals needing amputations of fingers. [^13]
 
-`image wc:02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg caption="the radioactive source involved in the 1987 accident in Goiânia, Brazil."`
+`image src=wc:02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg caption="the radioactive source involved in the 1987 accident in Goiânia, Brazil."`
 
 <h4 id="Castle-Bravo-Nuclear-testing">Castle Bravo Nuclear Testing</h4>
 
@@ -126,14 +126,14 @@ During the Castle Bravo nuclear testing in 1954 as part of the United States' Op
 
 As a result, all crew members were hospitalized, and aggressive blood transfusions were administered after the captain recognized the sickness. One person died as a result of the exposure. Two hundred and fourty-six islanders residing on islands west of Bikini under US jurisdiction were exposed to the fallout and were evacuated two days later. Some islanders inadvertently ingested the fallout. Later in life, these islanders exhibited a high frequency of thyroid anomalies. Thirty-seven US naval personnel experienced ==<u>beta burns</u>=={description="Beta burns are burns caused by beta particles. They are shallow surface burns, usually of skin and less often of lungs or gastrointestinal tract, often as results of hot particles or dissolved radionuclides that came to direct contact with or close proximity to the body."} from the fallout. [^16] 
 
-`image wc:Castle_Bravo_005.jpg caption="Castle Bravo nuclear test taken on March 1st 1954" `
+`image src=wc:Castle_Bravo_005.jpg caption="Castle Bravo nuclear test taken on March 1st 1954" `
 
 <h4 id="SL-1-Reactor-excursion">SL-1 Reactor Excursion</h4>
 
 The SL-1 reactor was a prototype reactor designed for easy assembly in remote locations at the ==National Reactor Testing Station in Idaho, USA.=={flyto:Q1221,7} The reactor was water moderated and controlled by five aluminum-clad cadmium control rods. While three workers were reassembling the control rod drives on January 3 1961, one worker manually removed the center control rod rapidly over a 0.5-second period, causing the reactor to become supercritical. This resulted in a steam explosion with a total energy release of 1.3 x 108 joules, comparable to 30 kg of TNT. The worker who withdrew the rod was killed instantly by a control rod. The other two workers were burned and thrown by the explosion, with one dying instantly from impact and the other succumbing to head injuries and dying a few hours later. The release of radioactive material was largely contained within the building.
 High radiation levels delayed emergency responders’ entry into the reactor building. The bodies of the deceased workers were recovered on January 4 and January 9. In total, 22 personnel and responders received radiation doses ranging from 3-27 rads. [^17]
 
-`image wc:SL1nuclearpowerplant.JPG caption="SL-1 Nuclear Power Plant"`
+`image src=wc:SL1nuclearpowerplant.JPG caption="SL-1 Nuclear Power Plant"`
 
 ## Powerplant Failures: Consequences and Responses 
 
@@ -143,8 +143,8 @@ High radiation levels delayed emergency responders’ entry into the reactor bui
 
 On March 28, 1979, the Unit 2 reactor at Three Mile Island, located near ==Middletown, Pennsylvania=={flyto:Q488690,7}, experienced a partial meltdown. This incident is widely considered as the most significant accident in the history of commercial nuclear power plants in the United States despite its limited radioactive releases. It initiated significant changes made in aspects of nuclear power plant operations and regulations, including emergency response planning, reactor operator training, human factors engineering, and radiation protection. 
 
-`image wc:Exelon_Three_Mile_Island_Nuclear_Generating_Station.jpg`
-`image wc:Oblique_%28view_of%29_TMI_%28Three_Mile_Island%29_-_NARA_-_540028.tif`
+`image src=wc:Exelon_Three_Mile_Island_Nuclear_Generating_Station.jpg`
+`image src=wc:Oblique_%28view_of%29_TMI_%28Three_Mile_Island%29_-_NARA_-_540028.tif`
 
 ##### Events in Sequence
 
@@ -154,7 +154,7 @@ Under normal circumstances, the pressure vessel containing the reactor core in t
 
 Unaware of the relief valve being stuck open and unable to confirm the water coverage of the core, the staff made a series of decisions that exposed the core. The malfunctioning valve caused a significant decrease in the pressure of the primary system, resulting in the reactor coolant pumps vibrating and being shut off. To avoid an undesirable situation where the pressurizer would be completely filled with emergency cooling water, the flow of water was reduced. Without the circulation of water by the reactor coolant pumps and with a scarcity of emergency cooling water in the primary system, the water level in the pressure vessel declined, leading to overheating of the core. [^20]
 
-`image wc:Setcom_at_Three_Mile_Island_Photo.png caption="Technicians enter the Unit 2 Reactor Building on Three Mile Island."`
+`image src=wc:Setcom_at_Three_Mile_Island_Photo.png caption="Technicians enter the Unit 2 Reactor Building on Three Mile Island."`
 
 ##### What Went Wrong?
 
@@ -186,7 +186,7 @@ Despite the incident at TMI being a significant cause for the American public's 
 The NRC was strengthened and the industry established the Institute of Nuclear Power Operations (INPO) to ensure appropriate training, plant management and operations. It expanded its resident inspector program in which two NRC inspectors live near each of the plants and provide oversight of adherence to the agencies’ regulations. It also expanded both safety and performance-oriented inspections and established an operations center staffed 24 hours a day to provide assistance in plant emergencies. [^24] 
 
 Training reforms are among the most significant outcomes of the TMI-2 accident. Training became centred on protecting a plant's cooling capacity, whatever the triggering problem might be. Events of TMI led to the establishment of the Atlanta-based Institute of Nuclear Power Operations (INPO) and its National Academy for Nuclear Training. Close to half of the operators' training was in a full-scale electronic simulator of the TMI control room. The $18 million simulator permitted operators to learn and be tested on all kinds of accident scenarios. [^22]
-.ve-media wc:Presentation_at_Three_Mile_Island_Nuclear_Plant_Simulator_%2828751374767%29.jpg static caption="NRC Resident Inspector Zach Hollcraft (center) gives fellows from the White House Leadership Development Program a presentation from the Three Mile Island nuclear plant simulator"
+.ve-media src=wc:Presentation_at_Three_Mile_Island_Nuclear_Plant_Simulator_%2828751374767%29.jpg static caption="NRC Resident Inspector Zach Hollcraft (center) gives fellows from the White House Leadership Development Program a presentation from the Three Mile Island nuclear plant simulator"
 
 <h4 id="Fukushima-Daiichi">Fukushima Daiichi</h4>
 
@@ -196,8 +196,8 @@ On March 11, 2011, Great East Japan Earthquake and tsunami induced a disaster in
 
 The reactors proved robust seismically, but vulnerable to the tsunami. Power, from grid or backup generators, was available to run the residual heat removal (RHR) system cooling pumps at eight of the eleven units, and despite some problems they achieved 'cold shutdown' within about four days. The other three, at Fukushima Daiichi, lost power at 3:42 pm, almost an hour after the earthquake, when the entire site was flooded by the 15-metre tsunami. Three employees at the Daiichi and Daini plants were killed directly by the earthquake and tsunami, but there have been no fatalities from the nuclear accident. [^25]
 
-`image wc:20200926fukushima02.jpg`
-`image wc:IAEA_Experts_at_Fukushima_%2802813336%29_%28cropped_3_to_2%29.jpg`
+`image src=wc:20200926fukushima02.jpg`
+`image src=wc:IAEA_Experts_at_Fukushima_%2802813336%29_%28cropped_3_to_2%29.jpg`
 
 ##### Could it Have Been Prevented?
 
@@ -212,8 +212,8 @@ The methods used by TEPCO and NISA to assess the risk from tsunamis lagged behin
 
 ##### Fukushima Now: Water Discharge
 
-`image wc:Rafael_Mariano_Grossi_visits_Fukushima_NPP_%2801815831%29.jpg`
-`image wc:Fukushima_Decommissioning_%2802110067%29_%2816372350279%29.jpg`
+`image src=wc:Rafael_Mariano_Grossi_visits_Fukushima_NPP_%2801815831%29.jpg`
+`image src=wc:Fukushima_Decommissioning_%2802110067%29_%2816372350279%29.jpg`
     
 Japan announced in April 2021 that it planned to discharge more than 1.25 million cubic metres of treated water stored at the station by discharging it into the sea. The plan was approved by the nuclear regulator in early 2022. The water stored at the tanks at the Fukushima-Daiichi site is treated through a process known as advanced liquid processing system (Alps) to remove most of the radioactivity. Tritium, which cannot be removed by Alps, and some very low levels of other radionuclides, remain in the water after processing.
 
