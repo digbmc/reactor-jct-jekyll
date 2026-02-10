@@ -6,7 +6,7 @@ author:
 date: 2023-08-01
 tags: 
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/3/30/NSC-Oct-2017.jpg
-permalink: 
+permalink: /science
 layout: post
 published: true
 featured: false

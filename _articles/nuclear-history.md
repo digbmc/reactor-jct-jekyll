@@ -6,7 +6,7 @@ author:
 date: 2023-08-01
 tags: 
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/6/6f/Laura_and_Enrico_Fermi_1954.jpg
-permalink: 
+permalink: /nuclear-history
 layout: post
 published: true
 featured: false
