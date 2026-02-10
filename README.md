@@ -1,11 +1,7 @@
-# Juncture website template
+# Nuclear Power
 
-## Local Development
+A Juncture exhibit built for [The Reactor Room](https://digitalscholarship.brynmawr.edu/reactor-room/).
 
-From a local copy of the GitHub repository, run a local Jekyll server
-
-```bash
-jekyll serve --disable-disk-cache -d /tmp
-```
-
-The site will be available at http://localhost:4000
+## Useful links:
+- [Old repo](https://github.com/digbmc/reactor-jct)
+- [Juncture documentation](https://www.juncture-digital.io/)
