@@ -175,9 +175,9 @@ No acute radiation injuries occurred, and the evidence indicates no chronic radi
 
 The TMI accident resulted in significant property damage for the plant operator, but no injuries resulted. The main impact of the Three Mile Island accident has been psychological rather than physical.
 
-`image Anti-nuke_rally_in_Harrisburg_USA.jpg`
-`image President_Carter_leaves_Three_Mile_Island_-_April_1%2C_1979_%2814492226660%29.jpg`
-`image Three_Mile_Island_Article_%28FDA120a%29_%288205614095%29.jpg`
+`image src=wc:Anti-nuke_rally_in_Harrisburg_USA.jpg`
+`image src=wc:President_Carter_leaves_Three_Mile_Island_-_April_1%2C_1979_%2814492226660%29.jpg`
+`image src=wc:Three_Mile_Island_Article_%28FDA120a%29_%288205614095%29.jpg`
     
 ##### Impact on Nuclear Industry
 
