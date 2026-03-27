@@ -1,7 +1,7 @@
 
 ---
-title: The History of Nuclear Power
-nav_title: History
+title: The Present and Future of Nuclear Power Globally
+nav_title: Present and Future
 description:
 author: 
 date: 2023-08-01
