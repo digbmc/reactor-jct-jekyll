@@ -17,6 +17,7 @@ nav_pages:
   - _articles/nuclear-history.md
   - _articles/science.md
   - _articles/nuclear-disasters.md
+  - _articles/present-and-future.md
 
 collections:
   articles:
